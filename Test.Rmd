@@ -22,3 +22,6 @@ library("tidyverse")
 ggplot(mtcars, aes(x = factor(cyl))) +
     geom_bar()
 ```
+
+**bold** 
+_hello_ 
